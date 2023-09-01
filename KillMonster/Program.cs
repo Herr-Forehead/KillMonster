@@ -35,8 +35,6 @@ while (Dhoni.hp > 0 && Billiam.hp > 0)
 {
     hitRoll = generator.Next(101);
     crit = generator.Next(101);
-    Console.WriteLine("Dhoni is readying up an attack; what do you choose? Spell or physical");
-    
 
 }
 
